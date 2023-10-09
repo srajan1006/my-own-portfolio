@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/snowflakes-1236247_640.jpg"
 
 const imageAltText = "purple and blue abstract background";
 
@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Srajan Agrawal, a dedicated B.Tech student in Computer Science and Engineering, is a tech enthusiast with a proven track record. As an intern at Microsoft and a UiPath Student Developer Champion, he showcases technical expertise and innovation. Srajan holds leadership roles in Google Developer Student Club and Newton School Coding Club, actively engages in tech communities, and advocates for technology education. Committed to making a positive impact in computer science, he welcomes collaboration and discussion to drive tech innovation.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
